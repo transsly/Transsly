@@ -12,7 +12,7 @@ transsly.findOne({admin: "Transsly"}, async (hata, data) => {
 let languages = []
 let servers = []
 
-languages.push([ "JavaScript", "Python"])
+languages.push([ "JavaScript", "Python", "Lua", "html", "css"])
   
 servers.push(["Wanestra / discord.gg/DEFyhbX6Fe", "Visteria / discord.gg/MjcpJ8QMBp", "KrySS Priv / discord.gg/fH8YVWtHF5"])
 
