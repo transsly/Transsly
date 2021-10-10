@@ -20,8 +20,8 @@ servers.push(["Wanestra / discord.gg/DEFyhbX6Fe", "Visteria / discord.gg/MjcpJ8Q
 const transslydata = new transsly({
   name: "Yağıs",
   age: 18,
-  country: "Turkey",
-  city: "Izmir",
+  country: "ABD",
+  city: "Washington",
   discord_main: "⚚ Transsly#0500 / 752683146121707663",
   languages: languages,
   servers: servers
