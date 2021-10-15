@@ -22,7 +22,7 @@ const transslydata = new transsly({
   age: 18,
   country: "ABD",
   city: "Washington",
-  discord_main: "⚚ Transsly#0500 / 752683146121707663",
+  discord_main: "Transsly#0500 / 752683146121707663",
   languages: languages,
   servers: servers
 })
