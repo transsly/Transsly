@@ -36,7 +36,7 @@ transslydata.save().catch(hata => console.error(hata))
 <p align="center">
 <a href="https://github.com/Transsly/" target="_blank"><img src="https://gpvc.arturio.dev/Transsly" alt="Transsly"/></a>
 
-    <br>
+
 </p>
 
   <h1 align="center">Discord Profilim</h1>
