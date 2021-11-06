@@ -11,7 +11,7 @@ transsly.findOne({admin: "Transsly"}, async (hata, data) => {
   
 const config = {
   languages: ["JavaScript", "Java", "Python", "HTML", "EJS", "PHP", "CSS"],
-  servers: ["Wanestra / discord.gg/DEFyhbX6Fe", "Visteria / https://discord.gg/zXRvNg22Dm"]
+  servers: ["Darksaga / discord.gg/darksaga"]
 }
 
 
