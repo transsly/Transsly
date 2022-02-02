@@ -18,7 +18,7 @@ const config = {
 const transslydata = new transsly({
 name: "Yağıs",
   age: 18,
-  discord_main: "Transsly ᶜᵸᶦᵛᵅ#1965 / 752683146121707663",
+  discord_main: "Transsly.#1000 / 201096212533739530",
   languages: config.languages,
   servers: config.servers
 }).save().catch(hata => console.error(hata))
