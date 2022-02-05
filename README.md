@@ -10,8 +10,7 @@ transsly.findOne({admin: "Transsly"}, async (hata, data) => {
     if(!data){
   
 const config = {
-  languages: ["JavaScript", "Java", "Python", "HTML", "EJS", "PHP", "CSS"],
-  servers: ["Chiva / discord.gg/chiva / discord.gg/1965"]
+  languages: ["JavaScript", "Java", "Python", "HTML", "EJS", "PHP", "CSS"]
 }
 
 
