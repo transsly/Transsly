@@ -35,7 +35,6 @@ name: "Yağıs",
 
   <h1 align="center">Discord Profilim</h1>
 <p align="center">
-<a href="https://github.com/Transsly/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/271244679675248640?theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
-  <a href="https://github.com/Transsly/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/201096212533739530?theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
+
      <a href="https://github.com/Transsly/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/382014290091311104?theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
 </p>
