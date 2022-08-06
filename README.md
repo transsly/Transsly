@@ -25,6 +25,13 @@ name: "Yağıs",
 }})
 ```
 
+<a href="https://discord.com/users/236146748681224192" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/Transsly" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</br><img src="https://komarev.com/ghpvc/?username=Transsly&color=dc143c&label=Ziyaretçi&color=6182e1" alt="Transsly"/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/236146748681224192?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/236146748681224192)
+</p>
+
 ## Langauges I Know:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
