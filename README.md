@@ -26,8 +26,7 @@ name: "Yağıs",
 ```
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/236146748681224192?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/236146748681224192)
-</p>
+
 
 ## Langauges I Know:
 
@@ -51,3 +50,5 @@ name: "Yağıs",
     <br>
   <a href="https://github.com/Transsly/" target="_blank"><img src="https://gpvc.arturio.dev/Transsly" alt="Transsly"/></a>
 
+    [![Discord Presence](https://lanyard.cnrad.dev/api/236146748681224192?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/236146748681224192)
+</p>
