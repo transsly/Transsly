@@ -43,6 +43,7 @@ name: "Yağıs",
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERESB0S&layout=compact&theme=dark&hide_border=true" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/236146748681224192?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/236146748681224192)
+[![Discord Presence](https://lanyard.cnrad.dev/api/223106022829457408?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/223106022829457408)
 </p>
   <h1 align="center">Github İstatistiğim</h1>
 <p align="center">
