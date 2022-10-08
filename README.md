@@ -37,10 +37,7 @@ name: "Yağıs",
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </br>
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERESB0S&layout=compact&theme=dark&hide_border=true" />
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/223106022829457408?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/223106022829457408)
 [![Discord Presence](https://lanyard.cnrad.dev/api/382014290091311104?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/382014290091311104)
