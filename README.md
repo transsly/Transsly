@@ -15,9 +15,10 @@ const config = {
 
 
 const transslydata = new transsly({
-name: "Yağıs",
-  age: 22,
-  discord_main: "transslybuxd / 223106022829457408",
+name: "Ahmet",
+surname: "Aslan",
+  age: 23,
+  discord_main: "izmirrepubliccs / 460121944881233920 ",
   languages: config.languages,
   servers: config.servers
 }).save().catch(hata => console.error(hata))
@@ -38,7 +39,7 @@ name: "Yağıs",
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </br>
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/460121944881233920?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/460121944881233920)
 [![Discord Presence](https://lanyard.cnrad.dev/api/223106022829457408?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/223106022829457408)
 [![Discord Presence](https://lanyard.cnrad.dev/api/382014290091311104?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/382014290091311104)
 </p>
